@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "EXPRESS LOVE",
+  "base_artist": "MEGA NRG MAN",
+  "createdAt": "2025-12-01T00:38:13.666317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Express 999",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Express_999_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Express Yourself",
+      "artist": "N.W.A.",
+      "has_synced": true,
+      "path": "select/02_Express_Yourself_N.W.A..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "American Express",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/03_American_Express_Molly_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Express Yourself",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/04_Express_Yourself_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Express Yourself",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/05_Express_Yourself_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Express Yourself - Non-Stop Express Mix",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_Express_Yourself_-_Non-Stop_Express_Mix_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Express Yourself (Non-Stop Express Mix)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/07_Express_Yourself_(Non-Stop_Express_Mix)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Express Yourself - Remix;",
+      "artist": "N.W.A.",
+      "has_synced": true,
+      "path": "select/08_Express_Yourself_-_Remix;_N.W.A..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Express Yourself (Remix)",
+      "artist": "N.W.A.",
+      "has_synced": true,
+      "path": "select/09_Express_Yourself_(Remix)_N.W.A..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Orient Express - Live",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/10_Orient_Express_-_Live_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heartbreak Express",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/11_Heartbreak_Express_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heartbreak Express",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/12_Heartbreak_Express_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "808 Express",
+      "artist": "Company B",
+      "has_synced": false,
+      "path": "select/13_808_Express_Company_B.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Honeymoon Express",
+      "artist": "Wendy & Lisa",
+      "has_synced": true,
+      "path": "select/14_Honeymoon_Express_Wendy_&_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Honeymoon Express",
+      "artist": "Wendy & Lisa",
+      "has_synced": true,
+      "path": "select/15_Honeymoon_Express_Wendy_&_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Orient Express",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/16_Orient_Express_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Theme From S-Express (12\" mix)",
+      "artist": "S’Express",
+      "has_synced": false,
+      "path": "select/17_Theme_From_S-Express_(12__mix)_S’Express.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "EXPRESS LOVE",
+      "artist": "MEGA NRG MAN",
+      "has_synced": false,
+      "path": "select/pl_EXPRESS_LOVE_MEGA_NRG_MAN.txt"
+    }
+  ]
+}
